@@ -30,6 +30,6 @@ Then, in your web browser (preferably Chrome or Firefox), navigate to `http://lo
 
 ## Notes
 
-`scoresandodds.com` has changed since this app was written. The code has been updated to pull data for NCAAB games, but some of the fields are not populating properly. Fields include moneylines, home team record, and some spread risk metrics.
+The code in this repository is built for Deephaven Community Core v0.19.1. No guarantee of forwards or backwards compatibility is given. Additionally, `scoresandodds.com` has changed since this app was written. The code has been updated to pull data for NCAAB games, but some of the fields are not populating properly. Fields include moneylines, home team record, and some spread risk metrics.
 
 If you wish to see these corrected, reach out to me on [Slack](https://deephaven.io/slack).
